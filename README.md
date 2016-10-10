@@ -1,2 +1,4 @@
-# react-colors
-React JS Colors Utility
+
+# React JS Color Picker
+
+## Readme under construction..
